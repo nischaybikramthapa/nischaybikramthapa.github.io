@@ -226,6 +226,13 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 25%;
    border: 5px solid #11ABB0;
 }
+
+#about .cert-pic {
+   position: left;
+   width: 90px;
+   height: 90px;  
+}
+
 #about .contact-details { width: 41.66667%; }
 #about .download {
    width: 58.33333%;
