@@ -38,13 +38,19 @@
         "school":"RMIT University",
         "degree":"Master of Data Science",
         "graduated":"November 2021",
-        "description":"Completed two-year course work along with a research component focusing on Clinical Natural Language Processing. "
+        "description":"I completed two years of course work and a research component focusing on clinical natural language processing. Throughout the coursework, I've learned to effectively understand business problems by working backwards, framing them into a data problem and deriving insights, recommendations and machine learning solutions to help businesses achieve their ultimate success. In addition to this, I've developed different solutions in various sectors:",
+        "first" : "Participated in IEEE Symposium, presenting a novel framework to identify potential groups for vaccination prioritisation, securing a second runner up position. ",
+        "second" : "Developed AWS-powered Alexa skills for the Museum of London to efficiently communicate construction reports amongst building and site managers.",
+        "third" : "Published a research paper that attempts to solve the hospital readmission problem using clinical admission notes."
       },
       {
         "school":"Tribhuvan University",
         "degree":"Bachelor of Information Management",
         "graduated":"October 2018",
-        "description":"My majors were Database Management Systems, Mathematics and Statistics, Economics of Information and Communication, Operations Management, Data Mining and Data Warehousing, Software Engineering, Artificial Intelligence"
+        "description":"The course was a perfect blend of IT and management. Over the years, I have learned that knowledge of information and technology management benefits significantly to suffice consumer requirements in every perspective, enhancing the performance of the products and services and determining the success of every modern organization.  ",
+        "first":"Gained exposure in subject areas such as Database Management systems, Mathematics and Statistics, Advance Programming, Data Structures and Algorithms, Software Engineering, Artificial Intelligence, Data Mining, Marketing, Economics, Supply Chain and Operations Management.",
+        "second": "Developed a CRM application using the Spring framework for a pharmaceutical company to store customer and prospect contact information, identify sales opportunities, and manage inventories." ,
+        "third":"Presented a proof of concept (POC) application to connect backpackers who want to travel to Nepal without the need for a local tourist guide."
         }
       ],
     "work":[
