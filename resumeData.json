@@ -1,0 +1,118 @@
+{
+    "main": {
+      "name":"Nischay Thapa",
+      "occupation":"Data Scientist / Consultant",
+      "description":" I enjoy solving business problems that involves consulting, managing, analysing, and generating value out of data",
+      "image":"profilepic.jpg",
+      "contactmessage":"If you love data or want to get value out of it, let's talk!",
+      "email": "nischaybikramthapa14@gmail.com",
+      "phone": "+61 (403) 749-059",
+      "address":{
+        "city":"Melbourne",
+        "state":"Victoria",
+        "zip": "3000"
+      },
+      "website": "https://nischaybikramthapa.github.io/",
+      "resumedownload":"https://drive.google.com/uc?export=pdf&id=1Z5hSjSXwjk3i4BdCfehg0YSAKZ34BDfC",
+      "social":[
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/nischaythapa/",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"github",
+          "url":"https://github.com/nischaybikramthapa",
+          "className":"fa fa-github"
+        },
+        {
+          "name":"email",
+          "url":"mailto:nischaybikramthapa14@gmail.com?subject=The%20subject%20of%20the%20mail",
+          "className":"fa fa-envelope"
+        }
+      ]
+    },
+    "resume":{
+      "certification": [
+        {
+          "name": "AWS Certified Machine Learning Specialty",
+          "date": "April 07 2022",
+          "pic": "aws-ml.png"
+        },
+        {
+          "name": "AWS Certified Data Analytics Specialty",
+          "date": "January 29 2023",
+          "pic": "da.png"
+        },
+        {
+          "name": "AWS Certified Solutions Architect Associate",
+          "date": "January 09 2023",
+          "pic": "saa.png"
+        },
+        {
+          "name": "AWS Certified Cloud Practitioner",
+          "date": "December 02 2021",
+          "pic": "ccp.png"
+        }
+        
+      ],
+
+      "education":[
+        {
+          "school":"RMIT University",
+          "degree":"Master of Data Science",
+          "graduated":"2021",
+          "description":"I completed two years of course work and a research component focusing on clinical natural language processing. Throughout the coursework, I've learned to effectively understand business problems by working backwards, framing them into a data problem and deriving insights, recommendations and machine learning solutions to help businesses achieve their ultimate success. In addition to this, I've developed different solutions in various sectors:",
+          "first" : "Participated in IEEE Symposium, presenting a novel framework to identify potential groups for vaccination prioritisation, securing a second runner up position. ",
+          "second" : "Developed AWS-powered Alexa skills for the Museum of London to efficiently communicate construction reports amongst building and site managers.",
+          "third" : "Published a research paper that attempts to solve the hospital readmission problem using clinical admission notes."
+        },
+        {
+          "school":"Tribhuvan University",
+          "degree":"Bachelor of Information Management",
+          "graduated":"2018",
+          "description":"The course was a perfect blend of IT and management. Over the years, I have learned that knowledge of information and technology management benefits significantly to suffice consumer requirements in every perspective, enhancing the performance of the products and services and determining the success of every modern organization.  ",
+          "first":"Gained exposure in subject areas such as Database Management systems, Mathematics and Statistics, Advance Programming, Data Structures and Algorithms, Software Engineering, Artificial Intelligence, Data Mining, Marketing, Economics, Supply Chain and Operations Management.",
+          "second": "Developed a CRM application using the Spring framework for a pharmaceutical company to store customer and prospect contact information, identify sales opportunities, and manage inventories." ,
+          "third":"Presented a proof of concept (POC) application to connect backpackers who want to travel to Nepal without the need for a local tourist guide."
+          }
+        ],
+      "work":[
+        {
+          "company":"The Data Foundry",
+          "title":" Lead Data Scientist",
+          "years":"2021 - Present",
+          "description":"Delivered enterprise data lake solution, player performance reporting tool for Golf Australia, improving their analytical capabilities by 80%. Designed an ingestion pattern to fetch data from various social media into the data lake to power marketing analytics for RMIT University. Developed a modular MLOps framework to support real-time inference and batch workloads, monitor concept and data drifts, cloud watch alarms to re-train ML pipelines and feature store using Sagemaker, CodePipeline, API Gateway, Lambda and CDK."
+        },
+        {
+          "company":"Creators Institute of Business and Technology",
+          "title":"Data Analyst",
+          "years":"2019 - 2019",
+          "description":"Developed a dashboard using Tableau to highlight KPIs such as the number of customers acquired over a while, revenue growth, and retention rates of the services provided by the institution. Segmented customers based on recency, frequency and monetary values for targeted advertising, improving conversion rate by 15%. Analysed sentiments from reviews, enhancing customer experience and obtaining a satisfaction score of 95%."
+        },
+        {
+          "company":"Worldlink Communications",
+          "title":"Data Analyst",
+          "years":"2017 - 2019",
+          "description":"Developed a dashboard using PowerBI highlighting KPI such as prompt time, retention rate and customer satisfaction score from more than 400 thousand retail customers. Segmented customers based on their reported issues over time with a recommendation to assign field visit for maintenance, improving retention rate by 7%. Analysed text-based sentiments from user complaints and ranked high priority customers enhancing satisfaction score by 19%. Led support team as level-three supervisor providing training to more than 150 technical support representatives to maintain call standards."
+        }
+      ]
+    },
+    "testimonials":{
+      "testimonials":[
+        {
+          "text":"Nischay is intelligent, creative and not afraid to take initiative. During his time with us, he actively engaged in team meetings and performed his tasks with strong attention to detail. The field of data science and STEM in general require a curious and explorative mindset, both of which were demonstrated by Nischay. The problem proposed to Nischay required an approach with an open mind. It also demanded teamwork and discussion with both his peers and seniors. He was capable in presenting his ideas to the team as well as receive feedback constructively, making him a good team player, something that PHM Technology values above most traits. I strongly recommend Nischay Bikram Thapa, for any role involving data science or engineering for all the reasons above.",
+          "user":"Navid Zaman | Data Science Lead at PHM Technology"
+        },
+        {
+          "text":"Nischay is a very capable Data Science professional, he is always available to help and his mentoring skills are exceptional. I have learned a lot from Nischay during my Master in Analytics, I could not be more fortunate to have Nischay as a Mentor. If you are looking for a Data Science professional, I fully recommend Nischay in all areas ( Machine Learning, Python, R, SQL, etc ).",
+          "user":"Victorino Marquez | Sr. Quality Specialist with Minitab and Master Lean Six Sigma Black Belt."
+        },
+        {
+          "text":"Nischay is a prominent and valuable team player with remarkable leadership and critical thinking skills. I was impressed by his skills when I appointed him as a data analyst. Later I also allowed him to instruct some of the students interested to learn data science, where he performed exceptionally well. Throughout his tenure, I have always found him innovative, self-motivated, who can perform any task with excellent efficiency. Nischay would be an asset to any company.",
+          "user":"Dixanta Bahadur Shrestha | Owner at Creators Institute of Business and Technology "
+        }
+      ]
+    }
+  }
+  

@@ -24,6 +24,7 @@ window.onload = function() {
 			'li_pen' : '&#xe00f;',
 			'li_diamond' : '&#xe010;',
 			'li_display' : '&#xe011;',
+			'li_database-2' : '&#xe030;',
 			'li_location' : '&#xe012;',
 			'li_eye' : '&#xe013;',
 			'li_bubble' : '&#xe014;',
